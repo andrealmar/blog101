@@ -213,7 +213,7 @@ DEPENDENCIES
   bootstrap-sass
   byebug
   capybara (~> 2.13)
-  carrierwave (~> 1.2)
+  carrierwave
   cloudinary
   coffee-rails (~> 4.2)
   figaro
